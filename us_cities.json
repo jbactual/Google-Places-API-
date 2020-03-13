@@ -1,0 +1,404 @@
+{
+  "cities": [
+    {
+      "city": "New York",
+      "coordinates": [40.7127837, -74.0059413],
+      "state": "New York",
+      "rank": 1,
+      "growth_from_2000_to_2013": 4.8,
+      "population": 8405837
+    },
+    {
+      "city": "Los Angeles",
+      "coordinates": [34.0522342, -118.2436849],
+      "state": "California",
+      "rank": 2,
+      "growth_from_2000_to_2013": 4.8,
+      "population": 3884307
+    },
+    {
+      "city": "Chicago",
+      "coordinates": [41.8781136, -87.6297982],
+      "state": "Illinois",
+      "rank": 3,
+      "growth_from_2000_to_2013": -6.1,
+      "population": 2718782
+    },
+    {
+      "city": "Houston",
+      "coordinates": [29.7604267, -95.3698028],
+      "state": "Texas",
+      "rank": 4,
+      "growth_from_2000_to_2013": 11.0,
+      "population": 2195914
+    },
+    {
+      "city": "Philadelphia",
+      "coordinates": [39.9525839, -75.1652215],
+      "state": "Pennsylvania",
+      "rank": 5,
+      "growth_from_2000_to_2013": 2.6,
+      "population": 1553165
+    },
+    {
+      "city": "Phoenix",
+      "coordinates": [33.4483771, -112.0740373],
+      "state": "Arizona",
+      "rank": 6,
+      "growth_from_2000_to_2013": 14.0,
+      "population": 1513367
+    },
+    {
+      "city": "San Antonio",
+      "coordinates": [29.4241219, -98.4936282],
+      "state": "Texas",
+      "rank": 7,
+      "growth_from_2000_to_2013": 21.0,
+      "population": 1409019
+    },
+    {
+      "city": "San Diego",
+      "coordinates": [32.715738, -117.1610838],
+      "state": "California",
+      "rank": 8,
+      "growth_from_2000_to_2013": 10.5,
+      "population": 1355896
+    },
+    {
+      "city": "Dallas",
+      "coordinates": [32.7766642, -96.7969879],
+      "state": "Texas",
+      "rank": 9,
+      "growth_from_2000_to_2013": 5.6,
+      "population": 1257676
+    },
+    {
+      "city": "San Jose",
+      "coordinates": [37.3382082, -121.8863286],
+      "state": "California",
+      "rank": 10,
+      "growth_from_2000_to_2013": 10.5,
+      "population": 998537
+    },
+    {
+      "city": "Austin",
+      "coordinates": [30.267153, -97.7430608],
+      "state": "Texas",
+      "rank": 11,
+      "growth_from_2000_to_2013": 31.7,
+      "population": 885400
+    },
+    {
+      "city": "Indianapolis",
+      "coordinates": [39.768403, -86.158068],
+      "state": "Indiana",
+      "rank": 12,
+      "growth_from_2000_to_2013": 7.8,
+      "population": 843393
+    },
+    {
+      "city": "Jacksonville",
+      "coordinates": [30.3321838, -81.655651],
+      "state": "Florida",
+      "rank": 13,
+      "growth_from_2000_to_2013": 14.3,
+      "population": 842583
+    },
+    {
+      "city": "San Francisco",
+      "coordinates": [37.7749295, -122.4194155],
+      "state": "California",
+      "rank": 14,
+      "growth_from_2000_to_2013": 7.7,
+      "population": 837442
+    },
+    {
+      "city": "Columbus",
+      "coordinates": [39.9611755, -82.9987942],
+      "state": "Ohio",
+      "rank": 15,
+      "growth_from_2000_to_2013": 14.8,
+      "population": 822553
+    },
+    {
+      "city": "Charlotte",
+      "coordinates": [35.2270869, -80.8431267],
+      "state": "North Carolina",
+      "rank": 16,
+      "growth_from_2000_to_2013": 39.1,
+      "population": 792862
+    },
+    {
+      "city": "Fort Worth",
+      "coordinates": [32.7554883, -97.3307658],
+      "state": "Texas",
+      "rank": 17,
+      "growth_from_2000_to_2013": 45.1,
+      "population": 792727
+    },
+    {
+      "city": "Detroit",
+      "coordinates": [42.331427, -83.0457538],
+      "state": "Michigan",
+      "rank": 18,
+      "growth_from_2000_to_2013": -27.1,
+      "population": 688701
+    },
+    {
+      "city": "El Paso",
+      "coordinates": [31.7775757, -106.4424559],
+      "state": "Texas",
+      "rank": 19,
+      "growth_from_2000_to_2013": 19.4,
+      "population": 674433
+    },
+    {
+      "city": "Memphis",
+      "coordinates": [35.1495343, -90.0489801],
+      "state": "Tennessee",
+      "rank": 20,
+      "growth_from_2000_to_2013": -5.3,
+      "population": 653450
+    },
+    {
+      "city": "Seattle",
+      "coordinates": [47.6062095, -122.3320708],
+      "state": "Washington",
+      "rank": 21,
+      "growth_from_2000_to_2013": 15.6,
+      "population": 652405
+    },
+    {
+      "city": "Denver",
+      "coordinates": [39.7392358, -104.990251],
+      "state": "Colorado",
+      "rank": 22,
+      "growth_from_2000_to_2013": 16.7,
+      "population": 649495
+    },
+    {
+      "city": "Washington",
+      "coordinates": [38.9071923, -77.0368707],
+      "state": "District of Columbia",
+      "rank": 23,
+      "growth_from_2000_to_2013": 13.0,
+      "population": 646449
+    },
+    {
+      "city": "Boston",
+      "coordinates": [42.3600825, -71.0588801],
+      "state": "Massachusetts",
+      "rank": 24,
+      "growth_from_2000_to_2013": 9.4,
+      "population": 645966
+    },
+    {
+      "city": "Nashville",
+      "coordinates": [36.1626638, -86.7816016],
+      "state": "Tennessee",
+      "rank": 25,
+      "growth_from_2000_to_2013": 16.2,
+      "population": 634464
+    },
+    {
+      "city": "Baltimore",
+      "coordinates": [39.2903848, -76.6121893],
+      "state": "Maryland",
+      "rank": 26,
+      "growth_from_2000_to_2013": -4.0,
+      "population": 622104
+    },
+    {
+      "city": "Oklahoma City",
+      "coordinates": [35.4675602, -97.5164276],
+      "state": "Oklahoma",
+      "rank": 27,
+      "growth_from_2000_to_2013": 20.2,
+      "population": 610613
+    },
+    {
+      "city": "Louisville",
+      "coordinates": [38.2526647, -85.7584557],
+      "state": "Kentucky",
+      "rank": 28,
+      "growth_from_2000_to_2013": 10.0,
+      "population": 609893
+    },
+    {
+      "city": "Portland",
+      "coordinates": [45.5230622, -122.6764816],
+      "state": "Oregon",
+      "rank": 29,
+      "growth_from_2000_to_2013": 15.0,
+      "population": 609456
+    },
+    {
+      "city": "Las Vegas",
+      "coordinates": [36.1699412, -115.1398296],
+      "state": "Nevada",
+      "rank": 30,
+      "growth_from_2000_to_2013": 24.5,
+      "population": 603488
+    },
+    {
+      "city": "Milwaukee",
+      "coordinates": [43.0389025, -87.9064736],
+      "state": "Wisconsin",
+      "rank": 31,
+      "growth_from_2000_to_2013": 0.30000000000000004,
+      "population": 599164
+    },
+    {
+      "city": "Albuquerque",
+      "coordinates": [35.0853336, -106.6055534],
+      "state": "New Mexico",
+      "rank": 32,
+      "growth_from_2000_to_2013": 23.5,
+      "population": 556495
+    },
+    {
+      "city": "Tucson",
+      "coordinates": [32.2217429, -110.926479],
+      "state": "Arizona",
+      "rank": 33,
+      "growth_from_2000_to_2013": 7.5,
+      "population": 526116
+    },
+    {
+      "city": "Fresno",
+      "coordinates": [36.7468422, -119.7725868],
+      "state": "California",
+      "rank": 34,
+      "growth_from_2000_to_2013": 18.3,
+      "population": 509924
+    },
+    {
+      "city": "Sacramento",
+      "coordinates": [38.5815719, -121.4943996],
+      "state": "California",
+      "rank": 35,
+      "growth_from_2000_to_2013": 17.2,
+      "population": 479686
+    },
+    {
+      "city": "Long Beach",
+      "coordinates": [33.7700504, -118.1937395],
+      "state": "California",
+      "rank": 36,
+      "growth_from_2000_to_2013": 1.5,
+      "population": 469428
+    },
+    {
+      "city": "Kansas City",
+      "coordinates": [39.0997265, -94.5785667],
+      "state": "Missouri",
+      "rank": 37,
+      "growth_from_2000_to_2013": 5.5,
+      "population": 467007
+    },
+    {
+      "city": "New Orleans",
+      "coordinates": [29.9510658, -90.0715323],
+      "state": "Louisiana",
+      "rank": 51,
+      "growth_from_2000_to_2013": -21.6,
+      "population": 378715
+    },
+    {
+      "city": "Virginia Beach",
+      "coordinates": [36.8529263, -75.977985],
+      "state": "Virginia",
+      "rank": 39,
+      "growth_from_2000_to_2013": 5.1,
+      "population": 448479
+    },
+    {
+      "city": "Atlanta",
+      "coordinates": [33.7489954, -84.3879824],
+      "state": "Georgia",
+      "rank": 40,
+      "growth_from_2000_to_2013": 6.2,
+      "population": 447841
+    },
+    {
+      "city": "Colorado Springs",
+      "coordinates": [38.8338816, -104.8213634],
+      "state": "Colorado",
+      "rank": 41,
+      "growth_from_2000_to_2013": 21.4,
+      "population": 439886
+    },
+    {
+      "city": "Omaha",
+      "coordinates": [41.2523634, -95.9979883],
+      "state": "Nebraska",
+      "rank": 42,
+      "growth_from_2000_to_2013": 5.9,
+      "population": 434353
+    },
+    {
+      "city": "Raleigh",
+      "coordinates": [35.7795897, -78.6381787],
+      "state": "North Carolina",
+      "rank": 43,
+      "growth_from_2000_to_2013": 48.7,
+      "population": 431746
+    },
+    {
+      "city": "Miami",
+      "coordinates": [25.7616798, -80.1917902],
+      "state": "Florida",
+      "rank": 44,
+      "growth_from_2000_to_2013": 14.9,
+      "population": 417650
+    },
+    {
+      "city": "Oakland",
+      "coordinates": [37.8043637, -122.2711137],
+      "state": "California",
+      "rank": 45,
+      "growth_from_2000_to_2013": 1.3,
+      "population": 406253
+    },
+    {
+      "city": "Minneapolis",
+      "coordinates": [44.977753, -93.2650108],
+      "state": "Minnesota",
+      "rank": 46,
+      "growth_from_2000_to_2013": 4.5,
+      "population": 400070
+    },
+    {
+      "city": "Tulsa",
+      "coordinates": [36.1539816, -95.992775],
+      "state": "Oklahoma",
+      "rank": 47,
+      "growth_from_2000_to_2013": 1.3,
+      "population": 398121
+    },
+    {
+      "city": "Cleveland",
+      "coordinates": [41.49932, -81.6943605],
+      "state": "Ohio",
+      "rank": 48,
+      "growth_from_2000_to_2013": -18.1,
+      "population": 390113
+    },
+    {
+      "city": "Pittsburgh",
+      "coordinates": [40.4406248, -79.9958864],
+      "state": "Pennsylvania",
+      "rank": 62,
+      "growth_from_2000_to_2013": -8.3,
+      "population": 305841
+    },
+    {
+      "city": "Arlington",
+      "coordinates": [32.735687, -97.1080656],
+      "state": "Texas",
+      "rank": 50,
+      "growth_from_2000_to_2013": 13.3,
+      "population": 379577
+    }
+  ]
+}
