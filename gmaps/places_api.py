@@ -1,7 +1,6 @@
 import googlemaps
 
 # Define google maps client
-API_KEY = "AIzaSyDYBoNYYfvINm3c4Mn5nUMNC2-FJkOufPA"
 gmaps = googlemaps.Client(key=API_KEY)
 
 def remove_types(details):
